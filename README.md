@@ -20,4 +20,5 @@ O Decola Tech é o programa de estágio da empresa **Avanade Brasil** e essas re
 * Desafio 6: [Desafio em POO](https://github.com/adrianycmc/Desafios-De-Codigo-DecolaTech/tree/main/Desafio%20em%20POO)
 * Desafio 7: [Utilizando propriedades e métodos](https://github.com/adrianycmc/Desafios-De-Codigo-DecolaTech/tree/main/Utilizando%20propriedades%20e%20m%C3%A9todos)
 * Desafio 8: [Criando um objeto com atributos](https://github.com/adrianycmc/Desafios-De-Codigo-DecolaTech/tree/main/Criando%20um%20objeto%20com%20atributos)
-* Desafio 9: [Utilizando construtores](
+* Desafio 9: [Utilizando construtores](https://github.com/adrianycmc/Desafios-De-Codigo-DecolaTech/tree/main/Utilizando%20construtores)
+* Desafio 10: [Utilizando Herança e Subclasses](
