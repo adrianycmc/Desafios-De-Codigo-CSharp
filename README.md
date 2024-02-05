@@ -1,5 +1,5 @@
 <div align="center">
-<img height="300" src="https://raw.githubusercontent.com/adrianycmc/Desafios-De-Codigo-DecolaTech/main/Decola%20Tech.png?token=GHSAT0AAAAAACL33FOMOJFTJT62VU3VYFGSZOBM4SA">
+<img height="300" src="https://raw.githubusercontent.com/adrianycmc/Desafios-De-Codigo-DecolaTech/main/Decola%20Tech.png?token=GHSAT0AAAAAACL33FON555WXVVBYFRB2RA6ZOBNK4Q">
 <br>
   
   ## Desafios de código - Decola Tech 4
