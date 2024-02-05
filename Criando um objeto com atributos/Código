@@ -1,0 +1,36 @@
+using System;
+
+class Jogador
+{
+    public string Nome { get; set; }
+    public string Nacionalidade { get; set; }
+    public int Idade { get; set; }
+    public string Posicao { get; set; }
+
+    public Jogador()
+    {
+    }
+
+    public virtual void Apresentar()
+    {
+      Console.WriteLine($"Jogador criado! \n {Nome} \n {Nacionalidade} 
+												\n {Idade} \n Posicao: {Posicao}");
+    }
+
+}
+
+
+class Program
+{
+    static void Main()
+    {
+        Jogador player = new Jogador();
+        player.Nome = Console.ReadLine();
+        player.Nacionalidade = Console.ReadLine();
+        player.Idade = int.Parse(Console.ReadLine());
+        player.Posicao = Console.ReadLine();
+
+        player.Apresentar();
+
+    }
+}
