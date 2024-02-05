@@ -1,14 +1,19 @@
 <div align="center">
 <img height="300" src="https://raw.githubusercontent.com/adrianycmc/Desafios-De-Codigo-DecolaTech/main/Decola%20Tech.png?token=GHSAT0AAAAAACL33FOMOJFTJT62VU3VYFGSZOBM4SA">
 <br>
+  
+  ## Desafios de código - Decola Tech 4
 </div>
 
-## Desafios de código
+<br>
+<br>
 
 Este repositório contém todas as minhas resoluções para os desafios de código propostos no bootcamp *Decola Tech 4* realizado na **DIO**.
 
 O Decola Tech é o programa de estágio da empresa **Avanade Brasil** e essas resoluções são referentes do Decola 4, realizado em 2023. 
 
+<br>
+<br>
 
 📂 Os desafios estão organizados por pasta contendo a descrição e o código.
 
