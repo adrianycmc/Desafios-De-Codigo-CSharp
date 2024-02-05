@@ -8,9 +8,9 @@
 <br>
 <br>
 
-Este repositório contém todas as minhas resoluções para os desafios de código propostos no bootcamp *Decola Tech 4* realizado na **DIO**.
+Minhas resoluções para os desafios de código propostos no bootcamp *Decola Tech 4* realizado na **DIO**.
 
-O Decola Tech é o programa de estágio da empresa **Avanade Brasil** e essas resoluções são referentes do Decola 4, realizado em 2023. 
+O Decola Tech é o programa de estágio da empresa **Avanade Brasil** e essas resoluções são referentes ao Decola 4, realizado em 2023. 
 
 <br>
 <br>
@@ -27,3 +27,31 @@ O Decola Tech é o programa de estágio da empresa **Avanade Brasil** e essas re
 * Desafio 8: [Criando um objeto com atributos](https://github.com/adrianycmc/Desafios-De-Codigo-DecolaTech/tree/main/Criando%20um%20objeto%20com%20atributos)
 * Desafio 9: [Utilizando construtores](https://github.com/adrianycmc/Desafios-De-Codigo-DecolaTech/tree/main/Utilizando%20construtores)
 * Desafio 10: [Utilizando Herança e Subclasses](https://github.com/adrianycmc/Desafios-De-Codigo-DecolaTech/tree/main/Utilizando%20Heran%C3%A7a%20e%20Subclasses)
+
+<br>
+
+## 💻 Tecnologias utilizadas
+<img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CS.svg" height="40" width="40"> 
+
+<br>
+
+## 🔎 Detalhes do projeto
+
+📌 Este é um repositório de cunho educacional e contém as minhas resoluções dos desafios de código que fiz no bootcamp: **"Decola Tech 4"** da DIO.
+
+<br>
+
+## 📜 Certificado do bootcamp
+[Decola Tech 4](https://media.licdn.com/dms/image/D4D22AQF33GbZ7Swtyw/feedshare-shrink_1280/0/1703733081666?e=1709769600&v=beta&t=1SVdoL_PPIHMMSwjlIUwXs_qWebrGsupE3a_ZRpaVVU)
+<br>
+<br>
+
+<p align="left">
+  Caso queira trocar entrar em contato: ⤵️
+</p>
+
+<p align="left">
+
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianycmc/)
+</p>
