@@ -1,5 +1,5 @@
 <div align="center">
-<img height="300" src="https://raw.githubusercontent.com/adrianycmc/Desafios-De-Codigo-DecolaTech/main/Decola%20Tech.png?token=GHSAT0AAAAAACL33FOM7BOBVQ3WXWVB624YZOBMQHQ">
+<img height="300" src="https://raw.githubusercontent.com/adrianycmc/Desafios-De-Codigo-DecolaTech/main/Decola%20Tech.png?token=GHSAT0AAAAAACL33FOMOJFTJT62VU3VYFGSZOBM4SA">
 <br>
 </div>
 
