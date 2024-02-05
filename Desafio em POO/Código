@@ -1,0 +1,47 @@
+using System;
+
+class Pessoa
+{
+ 
+   public string nome {get; set;}
+   public int idade {get; set;}
+
+    public Pessoa(string n, int i)
+    {
+        nome = n;
+        idade = i;
+    }
+
+    public string GetNome()
+    {
+        return nome;
+    }
+
+    public int GetIdade()
+    {
+        return idade;
+    }
+    
+
+    public void Apresentar()
+    {
+      Console.WriteLine($"Nome: {nome}, Idade {idade}");
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+
+        Console.WriteLine("Diga o nome");
+        string nome = Console.ReadLine();
+        Console.WriteLine("Diga a idade");
+        int idade = int.Parse(Console.ReadLine());
+
+        Pessoa usuario = new Pessoa (nome, idade);
+
+        usuario.Apresentar();
+
+    }
+}
