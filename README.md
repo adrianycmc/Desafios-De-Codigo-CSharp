@@ -48,6 +48,7 @@ A *formação .NET Developer* abrange o aprendizado de desenvolvimento em APIs r
 
 📂 Os desafios estão organizados por pasta contendo a descrição e o código.
 * Desafio 1: [Multiplicação Simples](https://github.com/adrianycmc/Desafios-De-Codigo-DecolaTech4/tree/main/Multiplica%C3%A7%C3%A3o%20Simples)
+* Desafio 2: [Pink e Cérebro](https://github.com/adrianycmc/Desafios-De-Codigo-CSharp/tree/main/Pink%20e%20C%C3%A9rebro)
 
 <br>
 
