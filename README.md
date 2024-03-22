@@ -32,7 +32,7 @@ O *Decola Tech* é o programa de estágio da empresa **Avanade Brasil** e essas 
 <br>
 
 #### 📜 Certificado do bootcamp
-[Decola Tech 4](https://media.licdn.com/dms/image/D4D22AQF33GbZ7Swtyw/feedshare-shrink_1280/0/1703733081666?e=1709769600&v=beta&t=1SVdoL_PPIHMMSwjlIUwXs_qWebrGsupE3a_ZRpaVVU)
+[Decola Tech 4](https://www.dio.me/certificate/985FA716/share)
 <br>
 <br>
 
