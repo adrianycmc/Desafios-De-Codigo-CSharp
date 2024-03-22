@@ -72,7 +72,7 @@ A *formação .NET Developer* abrange o aprendizado de desenvolvimento em APIs r
 
 
 <p align="left">
-  Caso queira trocar entrar em contato: ⤵️
+  Caso queira entrar em contato: ⤵️
 </p>
 
 <p align="left">
