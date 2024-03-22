@@ -1,18 +1,19 @@
 <div align="center">
-<img height="300" src="https://raw.githubusercontent.com/adrianycmc/Desafios-De-Codigo-DecolaTech/main/Decola%20Tech.png?token=GHSAT0AAAAAACL33FON555WXVVBYFRB2RA6ZOBNK4Q">
-<br>
   
-  ## Desafios de código - Decola Tech 4
+# Desafios em C#
 </div>
-
-<br>
 <br>
 
-Minhas resoluções para os desafios de código propostos no bootcamp *Decola Tech 4* realizado na **DIO**.
+📌 Minhas resoluções para os desafios de código propostos no bootcamp *Decola Tech 4* e na formação *.NET Developer* realizado na **DIO**.
+
+<br>
+
+----  
+  ### 📥 Desafios de código - Decola Tech 4
+<br>
 
 O Decola Tech é o programa de estágio da empresa **Avanade Brasil** e essas resoluções são referentes ao Decola 4, realizado em 2023. 
 
-<br>
 <br>
 
 📂 Os desafios estão organizados por pasta contendo a descrição e o código.
@@ -30,6 +31,32 @@ O Decola Tech é o programa de estágio da empresa **Avanade Brasil** e essas re
 
 <br>
 
+#### 📜 Certificado do bootcamp
+[Decola Tech 4](https://media.licdn.com/dms/image/D4D22AQF33GbZ7Swtyw/feedshare-shrink_1280/0/1703733081666?e=1709769600&v=beta&t=1SVdoL_PPIHMMSwjlIUwXs_qWebrGsupE3a_ZRpaVVU)
+<br>
+<br>
+
+----  
+  
+### 📥 Desafios de código - Formação .Net Developer
+
+<br>
+
+A *formação .NET Developer* abrange o aprendizado de desenvolvimento em APIs robustas para criar aplicações de alto nível, testes unitários para criar aplicações resilientes, banco de dados relacional e não relacionais (SQL e NoSQL) e Azure: um dos principais provedores de serviços em nuvem do mundo.
+
+<br>
+
+📂 Os desafios estão organizados por pasta contendo a descrição e o código.
+* Desafio 1: [Multiplicação Simples]()
+* 
+
+#### 📜 Certificado da formação
+🚧 Em construção 
+<br>
+<br>
+
+----  
+
 ## 💻 Tecnologias utilizadas
 <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CS.svg" height="40" width="40"> 
 
@@ -37,14 +64,11 @@ O Decola Tech é o programa de estágio da empresa **Avanade Brasil** e essas re
 
 ## 🔎 Detalhes do projeto
 
-📌 Este é um repositório de cunho educacional e contém as minhas resoluções dos desafios de código que fiz no bootcamp: **"Decola Tech 4"** da DIO.
+📌 Este é um repositório de cunho educacional e contém as minhas resoluções dos desafios de código da DIO.
 
 <br>
 
-## 📜 Certificado do bootcamp
-[Decola Tech 4](https://media.licdn.com/dms/image/D4D22AQF33GbZ7Swtyw/feedshare-shrink_1280/0/1703733081666?e=1709769600&v=beta&t=1SVdoL_PPIHMMSwjlIUwXs_qWebrGsupE3a_ZRpaVVU)
-<br>
-<br>
+
 
 <p align="left">
   Caso queira trocar entrar em contato: ⤵️
