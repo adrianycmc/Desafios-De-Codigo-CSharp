@@ -18,7 +18,7 @@ O *Decola Tech* é o programa de estágio da empresa **Avanade Brasil** e essas 
 
 📂 Os desafios estão organizados por pasta contendo a descrição e o código.
 
-* Desafio 1: [Explorando Sintaze e Tipos de Dados](https://github.com/adrianycmc/Desafios-De-Codigo-DecolaTech/tree/main/Explorando%20sintaxe%20e%20tipos%20de%20dados)
+* Desafio 1: [Explorando Sintaxe e Tipos de Dados](https://github.com/adrianycmc/Desafios-De-Codigo-DecolaTech/tree/main/Explorando%20sintaxe%20e%20tipos%20de%20dados)
 * Desafio 2: [Dominando os operadores](https://github.com/adrianycmc/Desafios-De-Codigo-DecolaTech/tree/main/Dominando%20os%20operadores)
 * Desafio 3: [Desvendando o controle de fluxo](https://github.com/adrianycmc/Desafios-De-Codigo-DecolaTech/tree/main/Desvendando%20o%20controle%20de%20fluxo)
 * Desafio 4: [Utilizando array e listas](https://github.com/adrianycmc/Desafios-De-Codigo-DecolaTech/tree/main/Utilizando%20arrays%20e%20listas)
